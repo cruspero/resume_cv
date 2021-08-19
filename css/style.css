@@ -1,0 +1,124 @@
+body {
+  background-color: #404040;
+}
+
+.navbar {
+  padding: 0;
+  font-family: 'Jura', sans-serif;
+}
+
+.logo-img {
+  max-width: 70%;
+  margin: 10px;
+}
+
+.line-dark {
+  border-bottom: 2px solid #636467;
+}
+
+.line-light {
+  border-bottom: 2px solid #d9d9d9;
+}
+
+
+.col-lg-3 {
+  background-color: #d9d9d9;
+}
+
+.leftside-info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.profile-photo {
+  max-width: 100%;
+  padding: 15px;
+}
+
+.name-txt {
+  font-family: 'Russo One',
+    sans-serif;
+  text-transform: uppercase;
+  font-size: 30px;
+  text-align: center;
+}
+
+.job-txt {
+  font-family: 'Russo One',
+    sans-serif;
+  text-align: center;
+  color: #636467;
+}
+
+.experience,
+.education {
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+
+.title,
+.description {
+  font-family: 'Jura', sans-serif;
+  color: #fff;
+}
+
+.title {
+  text-align: end;
+}
+
+.info {
+  margin-top: 20px;
+}
+
+.main-info-title {
+  font-family: 'Russo One', sans-serif;
+  text-transform: uppercase;
+  color: #636467;
+}
+
+.main-info-description {
+  font-family: 'Jura', sans-serif;
+  color: #636467;
+  text-align: justify;
+}
+
+.hobbie-img img {
+  max-width: 50px;
+}
+
+.hobbie-img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contacts-info {
+  font-family: 'Russo One',
+    sans-serif;
+  color: #636467;
+  text-align: center;
+}
+
+.contacts-description {
+  font-family: 'Jura',
+    sans-serif;
+  color: #636467;
+  text-align: center;
+  padding-top: 20pt;
+}
+
+.main-info a {
+  color: #636467;
+}
+.footer_main {
+  padding: 20pt;
+  font-family: 'Jura', sans-serif;
+  color: #fff;
+}
+.nav-footer a {
+  color: #fff;
+}
